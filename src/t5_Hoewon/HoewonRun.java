@@ -2,6 +2,7 @@ package t5_Hoewon;
 
 import java.util.Scanner;
 
+// 회원가입 프로그램 최종본 20250715_1628
 public class HoewonRun {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
