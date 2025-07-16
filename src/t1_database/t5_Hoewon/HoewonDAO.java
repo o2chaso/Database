@@ -1,4 +1,4 @@
-package t5_Hoewon;
+package t1_database.t5_Hoewon;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

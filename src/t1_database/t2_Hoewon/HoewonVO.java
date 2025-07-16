@@ -1,4 +1,4 @@
-package t2_Hoewon;
+package t1_database.t2_Hoewon;
 
 public class HoewonVO {
 	private int idx;
