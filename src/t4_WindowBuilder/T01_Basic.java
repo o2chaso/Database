@@ -127,6 +127,7 @@ public class T01_Basic {
 		});
 		
 		btnUserJoin.addActionListener(new ActionListener() {
+			@SuppressWarnings("unused")
 			public void actionPerformed(ActionEvent e) {
 				String mid = textField_UserID.getText();
 				String pass = textField_Password.getText();
